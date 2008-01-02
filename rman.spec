@@ -6,6 +6,7 @@ Group: Development/X11
 URL: http://polyglotman.sourceforge.net/
 Source: %{name}-%{version}.tar.gz
 License: GPL
+BuildRoot: %{_tmppath}/%{name}-root
 
 BuildRequires: libx11-devel >= 1.0.0
 BuildRequires: libxmu-devel >= 1.0.0
