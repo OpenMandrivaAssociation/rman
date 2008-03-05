@@ -1,6 +1,6 @@
 Name: rman
 Version: 3.2
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: PolyglotMan - manual page translator to HTML, ASCII, TkMan, DocBook
 Group: Development/X11
 URL: http://polyglotman.sourceforge.net/
