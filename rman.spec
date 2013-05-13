@@ -7,8 +7,8 @@ URL: http://polyglotman.sourceforge.net/
 Source: %{name}-%{version}.tar.gz
 License: GPL
 
-BuildRequires: libx11-devel >= 1.0.0
-BuildRequires: libxmu-devel >= 1.0.0
+BuildRequires: pkgconfig(x11) >= 1.0.0
+BuildRequires: pkgconfig(xmu) >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
 
 %define debug_package %{nil}
