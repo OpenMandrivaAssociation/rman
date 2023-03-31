@@ -3,7 +3,7 @@
 Summary:	PolyglotMan - manual page translator to HTML, ASCII, TkMan, DocBook
 Name:		rman
 Version:	3.2
-Release:	21
+Release:	22
 Group:		Development/X11
 License:	GPLv2
 Url:		http://polyglotman.sourceforge.net/
