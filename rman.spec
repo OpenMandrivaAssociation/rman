@@ -6,7 +6,7 @@ Version:	3.2
 Release:	22
 Group:		Development/X11
 License:	GPLv2
-Url:		http://polyglotman.sourceforge.net/
+Url:		https://polyglotman.sourceforge.net/
 Source0:	%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(x11) >= 1.0.0
 BuildRequires:	pkgconfig(xmu) >= 1.0.0
