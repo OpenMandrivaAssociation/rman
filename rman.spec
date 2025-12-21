@@ -8,6 +8,7 @@ Group:		Development/X11
 License:	GPLv2
 Url:		https://polyglotman.sourceforge.net/
 Source0:	%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	pkgconfig(x11) >= 1.0.0
 BuildRequires:	pkgconfig(xmu) >= 1.0.0
 BuildRequires:	pkgconfig(xorg-macros)
